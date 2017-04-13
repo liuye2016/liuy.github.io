@@ -68,4 +68,9 @@ theme: jacman
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type:git
+  repo: git@github.com:liuye2016/liuy.github.io.git
+  branch: master
+
+
+  
